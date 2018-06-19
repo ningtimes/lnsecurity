@@ -1,0 +1,20 @@
+*.class
+test-output
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+target
+bin
+.project
+.classpath
+.settings
+
+*.iml
+test-config.xml
+.idea
+
